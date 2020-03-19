@@ -1,0 +1,22 @@
+{
+  "name": "rescuetime_bookmarklet",
+  "version": "1.0.0",
+  "description": "Log a highlight to rescuetime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorbird/rescuetime_bookmarklet.git"
+  },
+  "author": "wade@wadearmstrong.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juniorbird/rescuetime_bookmarklet/issues"
+  },
+  "homepage": "https://github.com/juniorbird/rescuetime_bookmarklet#readme",
+  "devDependencies": {
+    "bookmarklet": "^1.0.4"
+  }
+}
